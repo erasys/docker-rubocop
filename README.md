@@ -1,4 +1,4 @@
-# docker-rubocop
+# rubocop-docker
 
 ## Developing
 
